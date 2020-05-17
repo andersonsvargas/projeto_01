@@ -1,11 +1,18 @@
-body{
-    background:yellowgreen;
-}
+
+.navbar {
+      background-color: yellowgreen;
+ }
  
-h1{
-    text-align: center;
-    
+ 
+.limpeza{
+     background-color: blueviolet;
 }
+
+.margin{
+  padding-top: 50px;
+  padding-bottom: 50px; 
+}
+  
 
 
     
